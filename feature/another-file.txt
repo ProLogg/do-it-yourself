@@ -2,3 +2,5 @@ Thhis line Staschuk
 This file was mod check
 
 This line was added in feature-2 branch
+
+Edit file feature-2 branch
